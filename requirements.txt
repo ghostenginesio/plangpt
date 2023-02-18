@@ -1,2 +1,6 @@
 langchain
+streamlit
 openai
+steamship
+steamship-langchain
+termcolor
